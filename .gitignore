@@ -2,3 +2,12 @@
 test
 config_f.py
 train_f.py
+log
+data
+model
+.gitignore
+__pycache__/
+backbone/__pycache__/
+head/__pycache__/
+loss/__pycache__/
+util/__pycache__/
